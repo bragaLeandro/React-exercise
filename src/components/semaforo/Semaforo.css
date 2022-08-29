@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-size: 30px;
+}
+
+.container {
+    margin: auto;
+    width: 1600px;
+    background-color: aqua;
+    text-align: center;
+}
+
+
+
+p {
+    font-weight: bold;
+}
+
+.botao {
+    border-radius: 30px;
+}
+.Pare {
+    color: red
+}
+
+.Atencao {
+    color: orange;
+}
+
+.Siga {
+    color: green;
+}

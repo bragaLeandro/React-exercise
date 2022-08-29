@@ -1,0 +1,18 @@
+.container1 {
+    width: 2000px
+}
+.box{
+	width: 317px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	float: left;
+	margin: auto;
+	padding: 20px;
+	cursor: pointer;
+    background-color: aqua;
+}
+
+.box img {
+    display: block;
+    max-width: 100%
+}

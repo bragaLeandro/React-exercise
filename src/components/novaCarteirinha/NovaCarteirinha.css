@@ -1,0 +1,28 @@
+.forms {
+    background-color: aquamarine;
+    display: block;
+    padding: 30px;
+    margin-left: 20px;
+    margin-right: 22px;
+    overflow: hidden;
+}
+
+.box{
+	width: 317px;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	float: left;
+	margin: 20px;   
+	padding: 20px;
+	cursor: pointer;
+    background-color: aqua;
+}
+
+.box img {
+    display: block;
+    max-width: 100%
+}
+
+p {
+    font-weight: bold;
+}
